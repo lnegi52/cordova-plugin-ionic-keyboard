@@ -21,7 +21,7 @@
         </js-module>
 
         <config-file target="config.xml" parent="/*">
-            <feature name="Keyboard">
+            <feature name="Keyboards">
                 <param name="ios-package" value="CDVIonicKeyboard" onload="true"/>
             </feature>
         </config-file>
@@ -36,7 +36,7 @@
             <clobbers target="window.Keyboard"/>
         </js-module>
         <config-file target="config.xml" parent="/*">
-            <feature name="Keyboard">
+            <feature name="Keyboards">
                 <param name="android-package" value="io.ionic.keyboard.IonicKeyboard" onload="true"/>
             </feature>
         </config-file>
