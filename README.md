@@ -8,7 +8,7 @@ This plugin has been designed to work seamlessly with `cordova-plugin-ionic-webv
 ## Installation
 
 ```
-cordova plugin add cordova-plugin-ionic-keyboard --save
+cordova plugin add https://github.com/lnegi52/cordova-plugin-ionic-keyboard.git
 ```
 
 ## Preferences
